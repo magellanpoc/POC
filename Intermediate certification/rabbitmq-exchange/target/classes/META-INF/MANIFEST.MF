@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: rabbitconsumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sreenivasulu.dhobi
+Implementation-Vendor-Id: ch.lihsmi
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

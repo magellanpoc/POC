@@ -1,0 +1,30 @@
+{
+  "name": "microservice-nodejs",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello world app on CentOS using docker",
+  "author": "Alex Stoioa <dimitrie.stoica@canopy-cloud.com>",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "bole": "~2.0.0",
+    "express": "3.2.4",
+    "mocha": "~2.2.5",
+    "supertest": "~1.0.1",
+    "string": "~3.3.0",
+    "mongodb": "~2.0.36",
+    "request": "~2.60.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CanopyCloud/microservice-nodejs.git"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CanopyCloud/microservice-nodejs/issues"
+  }
+}

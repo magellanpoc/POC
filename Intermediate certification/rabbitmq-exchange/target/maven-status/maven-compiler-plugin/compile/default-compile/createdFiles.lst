@@ -1,0 +1,13 @@
+ch\lihsmi\rabbitproducer\Message.class
+ch\lihsmi\ConsumerRestController.class
+ch\lihsmi\rabbitconsumer\LongRunningReceiver.class
+ch\lihsmi\rabbitconsumer\Consumer.class
+ch\lihsmi\Application.class
+ch\lihsmi\GlobalConfig.class
+ch\lihsmi\ProducerRestController.class
+ch\lihsmi\rabbitconsumer\MessageLogger.class
+ch\lihsmi\rabbitconsumer\FaultyReceiver.class
+ch\lihsmi\rabbitconsumer\ReliableReceiver.class
+ch\lihsmi\rabbitproducer\Producer.class
+ch\lihsmi\rabbitconsumer\Receiver.class
+ch\lihsmi\rabbitconsumer\ConsumerBuilder.class
